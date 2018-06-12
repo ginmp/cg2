@@ -7,7 +7,6 @@ package jogo;
 
 import jogo.controle.Controle;
 import jogo.mapas.Mapa;
-
 /**
  *
  * @author inmp
